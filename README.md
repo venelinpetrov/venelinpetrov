@@ -32,9 +32,6 @@ My name is Venelin and I'm a developer with a wide-ranging toolkit, focused on b
 ### 🛠️ Other Competences
 <p align="left"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> </p>
 
-### Github stats
-![Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=venelinpetrov&layout=compact&theme=tokyonight)
-
 ## 🗣️ Languages Spoken
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/bg.svg" alt="Bulgarian" width="32" /> &nbsp; Bulgarian </p> <p align="left"> <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gb.svg" alt="English" width="32" /> &nbsp; English </p> <p align="left"> <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/fr.svg" alt="French" width="32" /> &nbsp; French </p>
 
