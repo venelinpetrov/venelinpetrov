@@ -1,13 +1,11 @@
-## Hi there 👋 and welcome to my Github page
-
-My name is Venelin and I'm a developer with a wide-ranging toolkit, focused on building reliable web applications
-
-![Venelin's Github stats](https://github-profile-trophy.vercel.app/?username=venelinpetrov&theme=onedark&no-bg=true&margin-w=15&row=1)
+## Hi there 🤘 and welcome!
 
 - 🚀 I started my journey as a front-end developer in 2012
 - 🌱 I’m currently learning Java, Kotlin and Spring Boot
 - 📟 I like embedded programming in C for musical applications
 - 💻 Enthusiastic about exploring computer languages, from foundational classics to modern technologies.
+
+![Venelin's Github stats](https://github-profile-trophy.vercel.app/?username=venelinpetrov&theme=onedark&no-bg=true&margin-w=15&row=1)
 
 ## 🚀 My Tech Stack
 
