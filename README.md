@@ -1,4 +1,4 @@
-## Hi there 🤘 and welcome!
+## Hi there 🤘
 
 - 🚀 I started my journey as a front-end developer in 2012
 - 🌱 I’m currently learning Java, Kotlin and Spring Boot
@@ -8,6 +8,8 @@
 ![Venelin's Github stats](https://github-profile-trophy.vercel.app/?username=venelinpetrov&theme=onedark&no-bg=true&margin-w=15&row=1)
 
 ## 🚀 My Tech Stack
+
+![Venelin's Github languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=venelinpetrov&layout=compact&langs_count=10)
 
 ### 🧠 Languages
 <p align="left"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" /> </p>
