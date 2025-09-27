@@ -1,7 +1,7 @@
-## Hi there 🤘
+## Hi :)
 
-- 🚀 I started my journey as a front-end developer in 2012
-- 🌱 I’m currently learning Java, Kotlin and Spring Boot
+- 🚀 I started my journey as a front-end engineer back in 2012
+- 🌱 I’m currently learning MySQL, Java, Kotlin and Spring Boot
 - 📟 I like embedded programming in C for musical applications
 - 💻 Enthusiastic about exploring computer languages, from foundational classics to modern technologies.
 
