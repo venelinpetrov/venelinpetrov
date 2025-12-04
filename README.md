@@ -1,4 +1,4 @@
-## Hi :)
+## Hi!
 
 I'm a software engineer with wide a wide-ranging toolkit, focused on building reliable applications.
 
