@@ -2,8 +2,6 @@
 
 I'm a software engineer with wide a wide-ranging toolkit, focused on building reliable applications.
 
-![Venelin's Github stats](https://github-profile-trophy.vercel.app/?username=venelinpetrov&theme=onedark&no-bg=true&margin-w=15&row=1)
-
 ## 🚀 My Tech Stack
 
 ![Venelin's Github languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=venelinpetrov&layout=compact&langs_count=10)
