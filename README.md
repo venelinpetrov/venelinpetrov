@@ -1,6 +1,6 @@
 ## Hi!
 
-I'm a software engineer with wide a wide-ranging toolkit, focused on building reliable applications.
+I'm a software engineer with a wide-ranging toolkit, focused on building reliable applications.
 
 ## 🚀 My Tech Stack
 
