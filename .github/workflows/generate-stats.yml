@@ -18,7 +18,7 @@ jobs:
       - name: Generate top languages card
         uses: venelinpetrov/top-langs-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GH_PAT }}
           top_n: 10
           output_path: profile/top-langs.svg
 
