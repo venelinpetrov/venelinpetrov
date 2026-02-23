@@ -16,7 +16,7 @@ jobs:
       - uses: actions/checkout@v6
 
       - name: Generate top languages card
-        uses: venelinpetrov/top-langs-action
+        uses: venelinpetrov/top-langs-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           top_n: 10
