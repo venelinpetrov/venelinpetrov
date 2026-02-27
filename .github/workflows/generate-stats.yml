@@ -19,7 +19,7 @@ jobs:
         uses: venelinpetrov/top-langs-action@master
         with:
           github_token: ${{ secrets.GH_PAT }}
-          top_n: 10
+          top_n: 11
           output_path: profile/top-langs.svg
 
       - name: Commit cards
